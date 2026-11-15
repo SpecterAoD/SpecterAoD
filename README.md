@@ -13,3 +13,15 @@ Current focus: **PQKeep**, a command-line tool for post-quantum key generation a
 - I develop together with an AI coding assistant (Claude by Anthropic) and say so in each
   project; design decisions, review and releases stay with me.
 - Security issues: please use the private reporting link in the respective repository.
+
+---
+
+<div align="center">
+
+**Developed by SpecterAoD · Entwickelt von SpecterAoD**
+
+<a href="https://github.com/SpecterAoD">
+  <img src="https://github.com/SpecterAoD.png?size=512" alt="SpecterAoD developer logo / Entwicklerlogo" width="160" />
+</a>
+
+</div>

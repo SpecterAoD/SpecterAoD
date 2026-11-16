@@ -17,11 +17,13 @@ Current focus: **PQKeep**, a command-line tool for post-quantum key generation a
 ### Support
 
 If my work is useful to you, you can buy me a coffee via
-[GitHub Sponsors](https://github.com/sponsors/SpecterAoD) – entirely optional; bug reports, ideas
+[GitHub Sponsors](https://github.com/sponsors/SpecterAoD) or [Ko-fi](https://ko-fi.com/specteraod)
+(no GitHub account needed) – entirely optional; bug reports, ideas
 and contributions help just as much. *Wenn dir meine Arbeit nützt, freue ich mich über einen Kaffee
-über GitHub Sponsors – ganz freiwillig.*
+über GitHub Sponsors oder Ko-fi – ganz freiwillig.*
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=githubsponsors)](https://github.com/sponsors/SpecterAoD)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff5e5b?logo=kofi&logoColor=white)](https://ko-fi.com/specteraod)
 
 ---
 

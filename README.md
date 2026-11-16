@@ -30,7 +30,7 @@ and contributions help just as much. *Wenn dir meine Arbeit nützt, freue ich mi
 **Developed by SpecterAoD · Entwickelt von SpecterAoD**
 
 <a href="https://github.com/SpecterAoD">
-  <img src="https://github.com/SpecterAoD.png?size=512" alt="SpecterAoD developer logo / Entwicklerlogo" width="160" />
+  <img src="images/specteraod-banner.jpg" alt="SpecterAoD – developer logo / Entwicklerlogo" width="600" />
 </a>
 
 </div>
